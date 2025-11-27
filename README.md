@@ -29,13 +29,6 @@ A **mobile wallet application** that allows users to **manage transactions** eas
 
 ## **Installation**
 
-1. **Clone the repository:**
-
-
-git clone https://github.com/yourusername/cloud-wallet-app.git
-cd cloud-wallet-app
-
-
 npm install
 # or
 yarn install
