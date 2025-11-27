@@ -27,18 +27,6 @@ A **mobile wallet application** that allows users to **manage transactions** eas
 
 ---
 
-## **Screenshots**
-
-_Add screenshots of your app here_  
-
-- **Add Transaction Screen**  
-- **Transaction List Screen**  
-- **Edit Transaction Screen**  
-- **OTP Verification Screen**  
-- **Balance & Expense Summary Screen**
-
----
-
 ## **Installation**
 
 1. **Clone the repository:**
